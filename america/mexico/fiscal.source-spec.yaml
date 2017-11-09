@@ -1,6 +1,6 @@
-title: "Presupuesto México: 2008-2017"
-dataset-name: presupuesto_mexico
-resource-name: presupuesto_mexico
+title: "Presupuesto México"
+dataset-name: presupuesto
+resource-name: presupuesto
 
 sources:
 - encoding: windows-1252
